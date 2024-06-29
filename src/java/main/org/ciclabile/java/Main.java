@@ -7,7 +7,7 @@ public class Main {
 
 		int[] intArray = { 10, 20, 30, 40, 50, 60, 70, 80, 90 };
 
-		Cicle testCicle = new Cicle(intArray);
+		Iterator testCicle = new Iterator(intArray);
 
 		int iter = 0;
 

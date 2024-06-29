@@ -1,11 +1,11 @@
 package org.ciclabile.java;
 
-public class Cicle {
+public class Iterator {
 
 	private int[] intArray;
 	private int lastIteration;
 
-	public Cicle(int[] intArray) {
+	public Iterator(int[] intArray) {
 		this.intArray = intArray;
 		this.lastIteration = 0;
 	}
